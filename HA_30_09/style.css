@@ -1,0 +1,54 @@
+body {
+    background-color: sienna; /* Ein helles Blau als Grundfarbe */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    
+    padding: 0;
+    }
+    h1 {
+    color: rgb(122, 156, 13); /* Kräftiges Orange für die Überschrift */
+    text-align: center;
+    }
+    p {
+    font-size: 18px;
+    color: #333;
+    text-align: center;
+    }
+    img {
+    display: block;
+    margin: 20px auto;
+    width: 250px;
+    border: 3px solid #53147d; /* Rahmen um das Bild */
+    border-radius: 10px;
+    }
+    div {
+    background-color: bisque; /* Helles Rot für den Hintergrund */
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    }
+    ul {
+        color: black;
+        list-style-type: none;
+        text-align: center;
+    }
+
+.eigen {
+    background-color: bisque;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+.eigen h2{
+    color: green;
+}
+.eigen p {
+    color: green;
+}
+.eigen img {
+    margin-top: 10px;
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+}
