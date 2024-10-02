@@ -1,0 +1,168 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    color: yellow;
+    margin: 0;
+}
+
+nav {
+    margin: 20px 0;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: yellow;
+    font-weight: bold;
+}
+
+.inhalt1 {
+    text-align: center;
+    padding: 20px;
+}
+
+.inhalt1 img {
+    max-width: 100%;
+    height: auto;
+}
+
+.inhalt1 h2 {
+    font-size: 24px;
+    color: #333;
+}
+
+footer {
+    background-color: #333;
+    color: yellow;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+footer a {
+    color: purple;
+    text-decoration: none;
+}
+.inhalt2 h3 {
+    font-size: 22px;
+    margin-top: 20px;
+    color: #333;
+    text-align: center;
+}
+
+.inhalt2 h2 {
+    text-align: center;
+}
+
+.inhalt2 ul {
+    list-style-type: disc;
+    padding-left: 0px;
+    text-align: center;
+}
+
+.inhalt2 ul li {
+    margin: 10px 0;
+    font-size: 18px;
+}
+
+.inhalt2 strong {
+    font-weight: bold;
+    color: #000;
+}
+
+.inhalt2 p {
+    margin: 10px;
+    text-align: center;
+}
+.inhalt3 h3 {
+    font-size: 22px;
+    margin-top: 20px;
+    color: #333;
+    text-align: center;
+}
+
+.inhalt3 h2 {
+    text-align: center;
+}
+
+.inhalt3 ul {
+    list-style-type: circle;
+    padding-left: 0px;
+    text-align: center;
+}
+
+.inhalt3 ul li {
+    margin: 50px 0;
+    font-size: 18px;
+    list-style-type: circle;
+}
+
+.inhalt3 strong {
+    font-weight: bold;
+    color: #000;
+}
+
+.inhalt3 p {
+    margin: 30px;
+    text-align: center;
+}
+.inhalt4 h2 {
+    text-align: center;
+}
+.inhalt4 h3 {
+    text-align: center;
+}
+.inhalt4 p {
+    text-align: center; 
+    padding: 2%;
+}
+form {
+    max-width: 2000px;  /* Maximale Breite des Formulars */
+    margin: 0 auto;    /* Zentriert das Formular auf der Seite */
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    text-align: center;
+}
+form h2 {
+    text-align: center;
+}
+label {
+    font-weight: bold;
+}
+input[type="text"], input[type="email"], textarea {
+    width: 100%;      
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+.inhalt5 {
+    text-align: center;
+}
+.inhalt5 h3 {
+    padding: 1%;
+}
+.inhalt6 {
+    text-align: center;
+}
+.inhalt6 p {
+    border-radius: 13%;
+}
